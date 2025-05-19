@@ -32,5 +32,8 @@ The application successfully displays a greeting page with:
 
 ![Page Screenshot 2](Screenshot%202025-05-19%20at%204.12.33%E2%80%AFPM.png)
 
+![Page Screenshot 3](Screenshot%202025-05-19%20at%204.15.58%E2%80%AFPM.png)
+
+
 
 
