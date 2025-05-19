@@ -25,3 +25,12 @@ The application successfully displays a greeting page with:
 - A welcome message for Vistula University
 - The Vistula logo
 - A personalized greeting that uses the name parameter from the URL
+
+## Screenshots
+
+![Page Screenshot 1](Screenshot%202025-05-19%20at%204.12.25%E2%80%AFPM.png)
+
+![Page Screenshot 2](Screenshot%202025-05-19%20at%204.12.33%E2%80%AFPM.png)
+
+
+
